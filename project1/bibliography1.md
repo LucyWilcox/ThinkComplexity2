@@ -1,0 +1,3 @@
+[Gómez, J. M. and Verdú, M. Network theory may explain the vulnerability of medieval human settlements to the Black Death pandemic.](https://www.nature.com/articles/srep43467) Sci. Rep. 7, 43467; doi: 10.1038/srep43467 (2017).
+
+*Gomez and Verdu create an explanatory model of the networks between cities involved in the black plague to analyze which factors were correlated with the damaged caused. Particularly they analyzed the centrality and local transitivity in the trade and pilgrimage networks. They propose that there is a relation between the severity of the plague and these factors and suggest researching if this pattern holds in the present day.*   
